@@ -20,7 +20,7 @@ namespace WindowsFormsApp19
         {
             InitializeComponent();
         }
-
+        // Dani
         public void createSerialPort()
         {
             //Port name can be identified by checking the ports
