@@ -1,0 +1,20 @@
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+C:\Users\jurge\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+C:\Users\Dani Kools\Documents\Radius ICT Niveau 4 - leerjaar 2\Periode 1\Project - ODB2\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
